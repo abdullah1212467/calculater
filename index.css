@@ -40,7 +40,7 @@ body{
 }
 
 .input1{
-    width: 95%;
+    width: 93%;
    height:50px;
    border-radius: 5px;
    background-color: rgb(255, 255, 255);
@@ -139,6 +139,7 @@ body{
 .button-1:hover{
  border: 1px solid black;
 }
+
 
 
 
